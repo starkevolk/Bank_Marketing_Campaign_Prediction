@@ -21,7 +21,7 @@ This project builds a predictive model to support marketing decision-making.
 
 **Dataset Information**
 
-T| Feature  | Description                        |
+| Feature  | Description                        |
 | -------- | ---------------------------------- |
 | age      | Customer age                       |
 | job      | Type of job                        |
